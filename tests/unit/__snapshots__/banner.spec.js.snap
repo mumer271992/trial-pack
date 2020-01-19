@@ -1,0 +1,31 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Testing banner component renders correctly 1`] = `
+<section
+  id="banner_section"
+>
+  <div
+    class="container f-h"
+  >
+    <div
+      class="banner_section_content c-row align-center f-h"
+    >
+      <div
+        class="c-col-lg-3 c-col-md-4 c-col-sm-6 c-col-xs-12 t-c"
+      >
+        <h1
+          class="t-c"
+        >
+          Discover our skin friendliness
+        </h1>
+         
+        <button
+          class="primary large"
+        >
+          Now choose your size
+        </button>
+      </div>
+    </div>
+  </div>
+</section>
+`;

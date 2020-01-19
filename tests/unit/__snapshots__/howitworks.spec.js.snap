@@ -1,0 +1,95 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Testing how it works component renders correctly 1`] = `
+<section
+  id="how_it_works"
+>
+  <div
+    class="container t-c"
+  >
+    <h2
+      class="t-c"
+    >
+      How it works
+    </h2>
+     
+    <div
+      class="c-row top-align f-h"
+    >
+      <div
+        class="c-col-lg-4 c-col-md-4 c-col-sm-4 c-col-xs-12 t-c"
+      >
+        <div>
+          <img
+            src="../assets/images/lillydoo-your-trialbox-icon.svg"
+          />
+        </div>
+         
+        <h4>
+          YOUR TEST PACKAGE
+        </h4>
+         
+        <div>
+          We give you the products, you take over only the postage.
+        </div>
+      </div>
+       
+      <div
+        class="c-col-lg-4 c-col-md-4 c-col-sm-4 c-col-xs-12 t-c"
+      >
+        <div>
+          <img
+            src="../assets/images/lillydoo-your-flexibility-icon.svg"
+          />
+        </div>
+         
+        <h4>
+          YOUR FLEXIBILITY
+        </h4>
+         
+        <div>
+          First month box after 14 days for 49,50 € received. Or cancel before the first delivery.
+        </div>
+         
+        <div
+          class="links"
+        >
+          <div>
+            <a
+              href="#"
+            >
+              Learn more about the
+            </a>
+          </div>
+           
+          <div>
+            <a
+              href="#"
+            >
+              LILLYDOO diaper subscription here.
+            </a>
+          </div>
+        </div>
+      </div>
+       
+      <div
+        class="c-col-lg-4 c-col-md-4 c-col-sm-4 c-col-xs-12 t-c"
+      >
+        <div>
+          <img
+            src="../assets/images/lillydoo-your-subscription-icon.svg"
+          />
+        </div>
+         
+        <h4>
+          YOUR MONTHLY BOX
+        </h4>
+         
+        <div>
+          Adapt designs or delivery intervals at any time or change the diaper size.
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+`;
